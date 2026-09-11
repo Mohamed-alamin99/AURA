@@ -5,8 +5,8 @@ from src.application.knowledge_bases.service import KnowledgeBaseService
 
 
 router = APIRouter(
-    prefix="/knowledge-bases",
-    tags=["Knowledge Bases"],
+    prefix="/knowledge-bases", #prefix name for route
+    tags=["Knowledge Bases"],# knowledge base
 )
 
 
