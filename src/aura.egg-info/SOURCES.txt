@@ -1,0 +1,14 @@
+pyproject.toml
+src/api/main.py
+src/api/routes/health.py
+src/api/routes/knowledge_bases.py
+src/application/knowledge_bases/__init__.py
+src/application/knowledge_bases/service.py
+src/aura.egg-info/PKG-INFO
+src/aura.egg-info/SOURCES.txt
+src/aura.egg-info/dependency_links.txt
+src/aura.egg-info/requires.txt
+src/aura.egg-info/top_level.txt
+src/core/config.py
+src/domain/knowledge_bases/models.py
+src/domain/knowledge_bases/service.py

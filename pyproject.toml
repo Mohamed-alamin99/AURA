@@ -5,8 +5,11 @@ description = "Aura project"
 readme = ""
 requires-python = ">=3.11"
 dependencies = [
+    "alembic",
     "fastapi>=0.141.1",
+    "psycopg[binary]",
     "pydantic-settings>=2.15.0",
+    "sqlalchemy",
     "uvicorn>=0.52.4",
 ]
 
